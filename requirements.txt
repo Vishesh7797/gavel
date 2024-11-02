@@ -16,4 +16,4 @@ scipy==0.18.0
 six==1.10.0
 SQLAlchemy==1.0.14
 webassets==0.12.0
-Werkzeug==0.11.10
+Werkzeug==3.0.6
